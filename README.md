@@ -3,3 +3,6 @@
 ![Tests](https://github.com/BudarayavalasaPratibhaJagati/calc-cli/actions/workflows/python-app.yml/badge.svg)
 
 
+![Tests](https://github.com/BudarayavalasaPratibhaJagati/calc-cli/actions/workflows/python-app.yml/badge.svg)
+
+

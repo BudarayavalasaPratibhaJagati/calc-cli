@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calc-cli"
+version = "0.1.0"
+description = "Professional CLI calculator with 100% test coverage"
+authors = [{name="Pratibha Jagati"}]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+addopts = "-q --cov=app --cov-report=term-missing --cov-fail-under=100"
